@@ -8,7 +8,7 @@
  * @details
  * Files Required:
  *  generator_matrix.txt - This file contains the generator matrix of the LBC. The generator matrix must
- *                         be systematic in th form G = [I | P] for the decoding to work.
+ *                         be systematic, in the form G = [I | P] for the decoding to work.
  *  input.txt - This file contains the encoded message received after channel transmission of the code.
  *              The received message may be errorneous, but it should be lossless.
  * Generated Files:
